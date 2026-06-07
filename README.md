@@ -9,7 +9,7 @@ Projeto desenvolvido em Java para simular diferentes formas de pagamento utiliza
 - Pagamento via cripto
 - Pagamento via PIX
 - Processamento de pagamentos
-- Validação de dados
+- Validação de dados e regras de negócio
 
 ## Conceitos aplicados
 
